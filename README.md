@@ -29,9 +29,9 @@
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| 🎮 [rock-paper-scissor](https://github.com/mahak-maurya/rock-paper-scissor) | Classic game built with code | HTML |
-| 🔹 [Add Your Project] | Description | Python / ML |
-| 🔹 [Add Your Project] | Description | SQL / Power BI |
+| 🎮 [rock-paper-scissor](https://github.com/mahak-maurya/rock-paper-scissor)           | Classic game built with code                          | HTML |
+| 📰 [fake-news-detection-nlp](https://github.com/mahak-maurya/fake-news-detection-nlp) | Fake News Detection using GloVe + LSTM — 94% Accuracy | TensorFlow, NLP, LSTM |
+| 🔹 Add Your Project | Description | SQL / Power BI |
 
 ---
 
