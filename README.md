@@ -38,8 +38,8 @@
 📈 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahak-maurya&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahak-maurya&layout=compact&theme=tokyonight" width="40%"/>
+  <img src="https://streak-stats.demolab.com?user=mahak-maurya&theme=tokyonight" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahak-maurya&theme=tokyonight" width="90%"/>
 </p>
 
 ---
