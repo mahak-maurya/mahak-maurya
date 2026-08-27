@@ -33,6 +33,7 @@
 | 🎮 [rock-paper-scissor](https://github.com/mahak-maurya/rock-paper-scissor)           | Classic game built with code                          | HTML |
 | 📰 [fake-news-detection-nlp](https://github.com/mahak-maurya/fake-news-detection-nlp) | Fake News Detection using GloVe + LSTM — 94% Accuracy | TensorFlow, NLP, LSTM |
 | 🎬 [sentiment-analysis-imdb-nlp](https://github.com/mahak-maurya/sentiment-analysis-imdb-nlp) | IMDB Movie Sentiment Analysis — 85.88% Accuracy | NLTK, Scikit-learn, NLP |
+| 🚨 [crime-hotspot-detection](https://github.com/mahak-maurya/crime-hotspot-detection) | LA Crime Hotspot Detection — HDBSCAN Clustering + KNN Label Propagation | Scikit-learn, HDBSCAN, Folium, Pandas |
 
 ---
 
